@@ -1,0 +1,11 @@
+node_modules/
+dist/
+data/
+package-lock.json
+.env*
+Simulation accounts.txt
+public/fonts/
+docs/MASTER-BRIEF.md
+docs/MASTER-BLUEPRINT.md
+docs/ASSESSMENT.md
+docs/VALIDATION.md

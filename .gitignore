@@ -1,0 +1,33 @@
+# Installed dependencies and build output
+node_modules/
+dist/
+coverage/
+test-results/
+.sites-runtime/
+
+# Local settings, credentials, records and backups
+.env
+.env.*
+!.env.example
+data/
+*.sqlite
+*.sqlite-*
+*.db
+*.db-*
+*.bak
+*.log
+*.pem
+*.key
+Simulation accounts.txt
+
+# Original private planning records (kept on this computer)
+docs/MASTER-BRIEF.md
+docs/MASTER-BLUEPRINT.md
+docs/ASSESSMENT.md
+docs/VALIDATION.md
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
